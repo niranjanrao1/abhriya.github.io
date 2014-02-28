@@ -2,7 +2,7 @@
 
 ## Important information
 
-- Uses Middleman gem as static site generator
+- Uses [Middleman gem](http://middlemanapp.com) as static site generator
 - Uses Github user pages (requires files be in `master`)
 
 ## Development
