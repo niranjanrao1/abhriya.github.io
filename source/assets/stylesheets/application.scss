@@ -131,6 +131,11 @@ html {
       }
     }
     &.hero-sub {
+      .narrative {
+        h1 {
+          font-size: $font-size-h3;
+        }
+      }
       .hero-image {
         margin-bottom: 0;
         margin-left: -344px;
