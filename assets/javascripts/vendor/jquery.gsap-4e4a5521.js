@@ -1,0 +1,14 @@
+/*!
+ * VERSION: 0.1.6
+ * DATE: 2013-02-13
+ * UPDATES AND DOCS AT: http://www.greensock.com/jquery-gsap-plugin/
+ *
+ * Requires TweenLite version 1.8.0 or higher and CSSPlugin.
+ *
+ * @license Copyright (c) 2014, GreenSock. All rights reserved.
+ * This work is subject to the terms at http://www.greensock.com/terms_of_use.html or for
+ * Club GreenSock members, the software agreement that was issued with your membership.
+ *
+ * @author: Jack Doyle, jack@greensock.com
+ */
+!function(e){"use strict";var t,n,i,o=e.fn.animate,r=e.fn.stop,a=!0,s=function(e,t){"function"==typeof e&&this.each(e),t()},l=function(e,t,n,i,o){o="function"==typeof o?o:null,t="function"==typeof t?t:null,(t||o)&&(i[e]=o?s:n.each,i[e+"Scope"]=n,i[e+"Params"]=o?[t,o]:[t])},c={overwrite:1,delay:1,useFrames:1,runBackwards:1,easeParams:1,yoyo:1,immediateRender:1,repeat:1,repeatDelay:1,autoCSS:1},u=function(e,t){for(var n in c)c[n]&&void 0!==e[n]&&(t[n]=e[n])},d=function(e){return function(t){return e.getRatio(t)}},f={},p=function(){var o,r,a,s=window.GreenSockGlobals||window;if(t=s.TweenMax||s.TweenLite,t&&(o=(t.version+".0.0").split("."),r=!(Number(o[0])>0&&Number(o[1])>7),s=s.com.greensock,n=s.plugins.CSSPlugin,f=s.easing.Ease.map||{}),!t||!n||r)return t=null,!i&&window.console&&(window.console.log("The jquery.gsap.js plugin requires the TweenMax (or at least TweenLite and CSSPlugin) JavaScript file(s)."+(r?" Version "+o.join(".")+" is too old.":"")),i=!0),void 0;if(e.easing){for(a in f)e.easing[a]=d(f[a]);p=!1}};e.fn.animate=function(i,r,s,c){if(i=i||{},p&&(p(),!t||!n))return o.call(this,i,r,s,c);if(!a||i.skipGSAP===!0||"object"==typeof r&&"function"==typeof r.step||null!=i.scrollTop||null!=i.scrollLeft)return o.call(this,i,r,s,c);var d,h,v,g,m=e.speed(r,s,c),y={ease:f[m.easing]||(m.easing===!1?f.linear:f.swing)},b=this,w="object"==typeof r?r.specialEasing:null;for(h in i){if(d=i[h],d instanceof Array&&f[d[1]]&&(w=w||{},w[h]=d[1],d=d[0]),"toggle"===d||"hide"===d||"show"===d)return o.call(this,i,r,s,c);y[-1===h.indexOf("-")?h:e.camelCase(h)]=d}if(w){g=[];for(h in w)d=g[g.length]={},u(y,d),d.ease=f[w[h]]||y.ease,-1!==h.indexOf("-")&&(h=e.camelCase(h)),d[h]=y[h];0===g.length&&(g=null)}return v=function(n){if(g)for(var i=g.length;--i>-1;)t.to(b,e.fx.off?0:m.duration/1e3,g[i]);l("onComplete",m.old,b,y,n),t.to(b,e.fx.off?0:m.duration/1e3,y)},m.queue!==!1?b.queue(m.queue,v):v(),b},e.fn.stop=function(e,n){if(r.call(this,e,n),t){if(n)for(var i,o=t.getTweensOf(this),a=o.length;--a>-1;)i=o[a].totalTime()/o[a].totalDuration(),i>0&&1>i&&o[a].seek(o[a].totalDuration());t.killTweensOf(this)}return this},e.gsap={enabled:function(e){a=e},version:"0.1.6"}}(jQuery);
