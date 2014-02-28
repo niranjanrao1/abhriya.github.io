@@ -1,0 +1,230 @@
+// Custom variables first
+@import "6d-bootstrap/variables";
+
+// Then Bootstrap
+@import "bootstrap/bootstrap";
+
+// Core mixins
+@import "6d-bootstrap/mixins";
+ 
+// Core CSS
+@import "6d-bootstrap/scaffolding";
+@import "6d-bootstrap/type";
+@import "6d-bootstrap/buttons";
+
+// Utility classes
+@import "6d-bootstrap/utilities";
+
+
+//
+// Layout fittings
+// --------------------------------------------------
+
+// Needed for full-screen and sticky footer pages but doesn't affect regular pages
+body,
+html {
+  height: 100%;
+}
+
+
+// Brand
+// --------------------------------------------------
+
+#header {
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: $zindex-navbar;
+  #brand {
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAABSCAYAAAAIArdYAAADrElEQVR42u2bMWhTQRjH86jWpkIx0NBOViIOxXTs1hrcFVyEaMniUgOFim6CY7FELOrQoUOmYqROpSAGN8HQTkpLh0I1KdSgdJHaQGmj5184qITQ7773XvLeffbBb3lcvns/7t7dd/cuEaXUf4X1V2xvexjMgTI40JT1vWFdTIRoD5gHimAe9EiQXQHKkBWrpY9alsW8ze+samALZEC/JqPvqQaGbRSeayLb16RcXxPpORuFyw0SmWPKZhrKlm0UPmiQ6D+mbH9D2YMT4ZMu7cN188W+A66BJ+ApuA4ckYMWxIbAB6AaeAO6xExLf2XANDjUgs2YEpF4QCQJVoEi+GZ9agmJLNgHygQrFw9atBPkgWLwxbrloZbtOxqYWNyL2HRp2Qtg04Xsc+DYJjsItpmiG+CqDmGd7A5D9BeYAmes7MbMlt0CoyHVoQco5jv7DsRsle1kjsbPQEfE1os5zz6wVlTLZhmD0x3bZZOMdHHcdtkusGooe99qWS08bSg7K0F2CBwaTj2nbJd1DKegr6BXQuuOGY7IKQmyneCzgXDun99cBFkwC96DbbALlKYOqqAE8rpsMizCEwaym+AyeAw2gHJJBeTAYGCta7gwqILfQPlIEYy0WzgDVMAsgoF2Ca8CFQJq4G6rZUeBChmvQHcAq6FAWQa9fsueBT+BCilrhDRb+BZQHtkDC2ASpEACxDQJfW9Sl9lz2dLdfgm/9CC6DsZAlFFfVP9mnVlXwQ/Z0+CHC9EdkAaOx5w9zdwBHfcqnHIhuwTiPr5ScbDEmLIGvFT2iCk7A5wWrdBmTJMTLxUVObKRFl8M6RE3wTvALqMbO20Qdgy7d9FN8EuMASrexpw+bjiQDXID3zAUTgewckubrMm5QR8aBP0InACEHYN5utKK/Pl2yLeakpyAb4lguyAaoHDUIA3NcgJ+IoK9DsGW0wLxjHlOsO9EsIkQCE8Sz1hiBCNz6CuBC9Opb5UTTBGcD4FwgnjGup/C50IgHAOKwPFLOCZNuE4ESkjr0lUiWEraoFWijgfKmpbo1HJBWuKRpXYipaWWSaAIxsQsHnTQCrUNK2Z5qAPnhG0A0CdjBW7x0DuXsjbx6EpG5G3T0hUtytqIpyscADVZn1roisft+5jmXbog4HMpS7gbLMv6IE5L94I1eUceaOlleYda6O5dCFC2wO3Gfo7etTaK1ryOxn7N04syjh7y09AiUDYfLnW7ysqBip3Hh73/1ScL8qAEqqAetgPifwDVcV4TtTAC+AAAAABJRU5ErkJggg==');
+    background-size: 30px 41px;
+    display: block;
+    float: left;
+    height: 41px;
+    @include hide-text();
+    top: -3px;
+    margin: $grid-gutter-width/2;
+    position: relative;
+    width: 30px;
+  }
+  nav {
+    float: right;
+    margin: 0 $grid-gutter-width/4;
+    ul {
+      margin: 0;
+      padding: 0;
+      li {
+        display: inline;
+        margin: 0;
+      }
+    }
+  }
+}
+
+@media (min-width: $screen-lg-min) {
+  #header {
+    #brand {
+      margin: $grid-gutter-width;
+      top: -11px;
+    }
+    nav {
+      margin: $grid-gutter-width/2;
+    }
+  }
+}
+
+
+// Sections
+
+.section {
+  background-color: white;
+  overflow: hidden;
+  padding: $grid-gutter-width;
+  position: relative;
+  &.hero-primary {
+    background-color: $body-bg;
+    .narrative {
+      h1 {
+        font-size: $font-size-h3;
+        line-height: 1;
+      }
+    }
+  }
+  &.hero-sub {
+    border-bottom: 1px solid $hr-border;
+  }
+  .hero-image {
+    bottom: 0;
+    height: auto;
+    left: 50%;
+    margin-left: -200px;
+    position: absolute;
+    width: 400px;
+    z-index: 0;
+  }
+}
+
+@media (min-width: $screen-sm-min) {
+  .section {
+    &.hero-primary {
+      .narrative {
+        h1 {
+          font-size: $font-size-h1;
+          margin-bottom: 0.667em;
+        }
+      }
+      .hero-image {
+        margin-left: -320px;
+        width: 640px;
+      }
+    }
+    &.hero-sub {
+      .hero-image {
+        margin-left: -344px;
+        width: 688px;
+      }
+    }
+  }
+}
+
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max){
+  .section {
+    &.hero-primary {
+      .hero-image {
+        margin-left: -288px;
+        width: 576px;
+      }
+    }
+    &.hero-sub {
+      .hero-image {
+        margin-left: -320px;
+        width: 640px;
+      }
+    }
+  }
+}
+
+.narrative {
+  margin-top: 48px;
+  position: relative;
+  text-align: center;
+  z-index: $zindex-navbar;
+  h1 {
+    font-size: $font-size-h3;
+    margin-bottom: 0.5em;
+  }
+  p {
+    color: $gray-light;
+    font-size: $font-size-base;
+    line-height: 1.4;
+    margin: 0 auto 1em;
+    max-width: 480px;
+  }
+}
+
+@media (min-width: $screen-sm-min) {
+  .narrative {
+    margin-top: 96px;
+    h1 {
+      font-size: $font-size-h2;
+    }
+    p {
+      font-size: $font-size-large;
+      line-height: 1.4;
+    }
+  }
+}
+
+.download-badge {
+  background-size: 144px 48px;
+  display: block;
+  height: 48px;
+  @include hide-text();
+  margin: $grid-gutter-width/2 auto;
+  width: 144px;
+  &.ios {
+    background-image: url('../images/download_badge_appstore.png');
+  }
+  &.android {
+    background-image: url('../images/download_badge_googleplay.png');
+  }
+}
+
+@media (min-width: $screen-sm-min) {
+  .download-badge {
+    margin: $grid-gutter-width auto;
+  }
+}
+
+
+// Footer
+// --------------------------------------------------
+
+#footer {
+  background: $body-bg;
+  border-top: 1px solid $hr-border;
+  @include clearfix();
+  position: relative;
+  z-index: 2;
+  #social {
+    border-bottom: 1px solid $hr-border;
+    width: 100%;
+  }
+  #copyright {
+    width: 100%;
+  }
+}
+
+
+// Sticky footer
+// --------------------------------------------------
+
+.wrapper {
+  margin: 0 auto -49px; // +1 for border
+  min-height: 100%;
+  overflow: auto;
+  padding: 0 0 48px;
+}
+
+@import "vendor/jquery.fullPage";

@@ -1,0 +1,9 @@
+name:             SixDegrees
+description:      Your connected phonebook.
+keywords:         
+author:           Aen
+license:          All rights reserved
+
+webfonts:
+  service_type:   typekit
+  families:       ngm5tby
