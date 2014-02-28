@@ -3,14 +3,18 @@
 
 # TEAM
 
+  Developer: Arun Samudrala
+  Contact: arun@sixdegreez.co
+  From: Bangalore
+
+  Writer: Niranjan Rao
+  Contact: niranjan@sixdegreez.co
+  From: Bangalore, Singapore
+
   Designer, developer: Aen
   Contact: hello@aentan.com
   Twitter: @Aen
   From: Singapore
-
-  Developer: Arun Samudrala
-  Contact: arun@sixdegreez.co
-  From: Bangalore
 
 # THANKS
 
