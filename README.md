@@ -3,11 +3,11 @@
 ## Important information
 
 - Uses [Middleman gem](http://middlemanapp.com) as static site generator
-- Uses Github user pages (requires files be in `master`)
+- Uses [Github user pages](http://pages.github.com) (requires files be in `master`)
 
 ## Development
 
-- Make sure you have Ruby and Rubygems
+- Make sure you have [Ruby](https://www.ruby-lang.org/en/) and [Rubygems](http://rubygems.org)
 - `gem install middleman`
 - `bundle`
 - `$ git checkout dev`
