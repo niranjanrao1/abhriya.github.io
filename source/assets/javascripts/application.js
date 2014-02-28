@@ -9,7 +9,7 @@ $(function() {
     easing: 'easeOutQuad',
     menu: false,
     navigation: true,
-    navigationTooltips: ['Home', 'Live Contacts', 'Search', 'Privacy', 'Duplicates', 'Backup', 'Contact'],
+    navigationTooltips: ['Home', 'Live Contacts', 'Search', 'Privacy', 'Duplicates', 'Backup', 'Colophon'],
     slidesNavigation: true,
     slidesNavPosition: 'right',
     loopHorizontal: true,
