@@ -49,16 +49,24 @@ html {
     width: 30px;
   }
   nav {
-    float: right;
-    margin: $grid-gutter-width/2;
+    float: left;
+    margin: $grid-gutter-width/2 0;
+    padding: 0;
     ul {
       margin: 0;
       padding: 0;
       li {
         display: inline;
+        font-weight: 400;
         margin: 0;
+        a {
+          padding: $grid-gutter-width/2;
+        }
       }
     }
+  }
+  > a {
+    margin: $grid-gutter-width/2;
   }
 }
 
@@ -69,6 +77,9 @@ html {
       top: -11px;
     }
     nav {
+      margin: $grid-gutter-width 0;
+    }
+    > a {
       margin: $grid-gutter-width;
     }
   }
@@ -219,18 +230,22 @@ html {
 // --------------------------------------------------
 
 #footer {
-  background: $body-bg;
+  background: white;
   border-top: 1px solid $hr-border;
   @include clearfix();
+  padding: $grid-gutter-width 0;
   position: relative;
   z-index: 2;
-  #social {
-    border-bottom: 1px solid $hr-border;
+  .copyright {
+    color: $text-muted;
+    font-size: $font-size-small;
+    text-align: center;
     width: 100%;
   }
-  #copyright {
-    width: 100%;
-  }
+}
+
+#superContainer > object {
+  display: none;
 }
 
 
@@ -238,10 +253,10 @@ html {
 // --------------------------------------------------
 
 .wrapper {
-  margin: 0 auto -49px; // +1 for border
+  margin: 0 auto -87px; // +1 for border
   min-height: 100%;
   overflow: auto;
-  padding: 0 0 48px;
+  padding: 0 0 86px;
 }
 
 @import "vendor/jquery.fullPage";
