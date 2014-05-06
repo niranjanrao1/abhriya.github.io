@@ -1,10 +1,9 @@
-<header id="header">
-  <span id="brand">6degrees</span>
-  <nav>
-    <ul>
-      <li id="nav-android"><%= link_to 'Android', '/' %></li>
-      <li id="nav-ios"><%= link_to 'iOS', '/ios.html' %></li>
+<!-- <a href="https://play.google.com/store/apps/details?id=co.abhriya.sixdegreez" class="btn btn-primary pull-right" target="_blank">Download</a> -->
+<header class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav navbar-centered">
+      <li class="navbar-centered-brand"><a href="#">6degrees</a></li><li id="nav-android" class="<%= 'active' if current_page.data.bodyclass == 'android' %>"><%= link_to 'Android', '/' %></li><li id="nav-ios" class="<%= 'active' if current_page.data.bodyclass == 'ios' %>"><%= link_to 'iOS', '/ios.html' %></li>
+      <!-- <li id="nav-enterprise" class=" class="<%= 'active' if current_page.data.bodyclass == 'enterprise' %>"><%= link_to 'Enterprise', '/enterprise' %></li> -->
     </ul>
-  </nav>
-  <a href="https://play.google.com/store/apps/details?id=co.abhriya.sixdegreez" class="btn btn-primary pull-right" target="_blank">Download</a>
+  </div>
 </header>

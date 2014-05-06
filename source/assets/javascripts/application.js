@@ -29,7 +29,8 @@ $(function() {
   // UA detection
   var ua = navigator.userAgent.toLowerCase();
   var isiOS = ua.indexOf("iphone") > -1 || ua.indexOf("ipod") > -1 || ua.indexOf("ipad") > -1;
-  if (isiOS) {
+  var isiOSPage = window.location.pathname == '/ios/';
+  if (isiOS && !isiOSPage) {
     // Load iOS page
     //$('#nav-ios > a').trigger('click');
     window.location = $('#nav-ios > a').attr('href');
@@ -44,14 +45,17 @@ $(function() {
       easing: 'easeOutQuad',
       menu: false,
       navigation: true,
+      paddingTop: '64px',
       //navigationTooltips: ['Home', 'Live Contacts', 'Search', 'Privacy', 'Duplicates', 'Backup', 'Colophon'],
       slidesNavigation: true,
       slidesNavPosition: 'right',
       loopHorizontal: true,
-      autoScrolling: true,
+      autoScrolling: false,
       keyboardScrolling: true
     });
   }
-  initFullpage();
+  if ($('.section').length > 0) {
+    initFullpage();
+  }
 
 });

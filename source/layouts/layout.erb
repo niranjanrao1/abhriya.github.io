@@ -9,16 +9,16 @@
     <title><%= current_page.data.title || "SixDegrees is your connected phonebook" %></title>
     <meta name="description" content="<%= current_page.data.description %>">
     <meta name="keywords" content="<%= current_page.data.keywords %>">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <%= stylesheet_link_tag "application", {:rel=>"stylesheet"} %>
     <%= partial "webfonts" %>
   </head>
-  <body>
+  <body class="<%= current_page.data.bodyclass %>">
     <!--[if lt IE 7]>
       <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
     <![endif]-->
+    <%= partial 'header' %>
     <div class="wrapper">
-      <%= partial 'header' %>
       <section id="main" role="main">
         <%= yield %>
       </section>

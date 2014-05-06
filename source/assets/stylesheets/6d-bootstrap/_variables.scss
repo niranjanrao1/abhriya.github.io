@@ -257,7 +257,7 @@ $grid-float-breakpoint:     $screen-tablet;
 // -------------------------
 
 // Basics of a navbar
-$navbar-height:                    32px;
+$navbar-height:                    64px;
 $navbar-margin-bottom:             $line-height-computed;
 $navbar-default-color:             $text-color;
 $navbar-default-bg:                transparent;
@@ -636,7 +636,7 @@ $page-header-border-color:    $gray-lighter;
 // -------------------------
 
 // Hr border color
-$hr-border:                   $gray-lightly;
+$hr-border:                   $gray-lighter;
 
 // Horizontal forms & lists
 $component-offset-horizontal: 176px;
