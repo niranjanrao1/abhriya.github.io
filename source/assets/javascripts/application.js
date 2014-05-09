@@ -54,7 +54,8 @@ $(function() {
       keyboardScrolling: true
     });
   }
-  if ($('.section').length > 0) {
+  // if ($('.section').length > 0) {
+  if ($('.section').length > 0 && $('body.enterprise').length < 1) {
     initFullpage();
   }
 
