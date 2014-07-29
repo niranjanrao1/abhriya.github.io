@@ -5,14 +5,26 @@ keywords: 6degrees, sixdegrees, sixdegreez, address book, phonebook, contacts, c
 bodyclass: android
 ---
 <section class="section hero-primary">
-  <div class="narrative">
-    <h1>Stay connected, forever.</h1>
-    <p>The self-updating phonebook that cleans duplicates, integrates your social networks and backs itself up.</p>
-    <div class="download">
-      <a href="https://play.google.com/store/apps/details?id=co.abhriya.sixdegreez" class="download-badge android" target="_blank">Download on the App Store</a>
+  <div id="hero-android">
+    <div class="narrative">
+      <h1>Stay connected, forever.</h1>
+      <p>The self-updating phonebook that cleans duplicates, integrates your social networks and backs itself up.</p>
+      <div class="download">
+        <a href="https://play.google.com/store/apps/details?id=co.abhriya.sixdegreez" class="download-badge android" target="_blank">Download on Google Play</a>
+      </div>
     </div>
+    <%= image_tag 'phone_android.jpg', class: 'hero-image', height: 320, width: 640 %>
   </div>
-  <%= image_tag 'phone_android.jpg', class: 'hero-image', height: 320, width: 640 %>
+  <div id="hero-ios">
+    <div class="narrative">
+      <h1>Stay connected, forever.</h1>
+      <p>The self-updating phonebook that cleans duplicates, integrates your social networks and backs itself up.</p>
+      <div class="download">
+        <a href="https://itunes.apple.com/app/6degrees/id867466594?mt=8" class="download-badge ios" target="_blank">Download on the App Store</a>
+      </div>
+    </div>
+    <%= image_tag 'phone_ios.jpg', class: 'hero-image', height: 320, width: 640 %>
+  </div>
 </section>
 <section class="section hero-sub">
   <div class="narrative">
@@ -49,7 +61,23 @@ bodyclass: android
   </div>
   <%= image_tag 'hero_backups.jpg', class: 'hero-image', height: 448, width: 688 %>
 </section>
-<section class="footer section">
+<section class="section-nonfull">
+  <div class="narrative">
+    <p>Featured on</p>
+    <div class="media-logos">
+      <a href="http://www.livemint.com/Companies/ZFD73Zd60v76BBQwHt3WyL/Sharing-phone-contacts-made-easy.html"><%= image_tag 'media_logos/livemint.png', height: 27, width: 54 %></a>
+      <a href="http://www.stasiareport.com/supplements/digital-life/story/first-look-6degrees-20140507"><%= image_tag 'media_logos/straitstimes.png', height: 18, width: 146 %></a>
+      <a href="http://www.geektime.com/2014/04/14/singapore-startup-6degrees-created-a-self-updating-phonebook-so-you-wont-lose-your-friends-info/"><%= image_tag 'media_logos/geektime.png', height: 24, width: 102 %></a>
+      <a href="http://indianexpress.com/article/technology/technology-others/6degrees-indian-team-creates-app-that-makes-contacts-lists-live/"><%= image_tag 'media_logos/theindianexpress.png', height: 19, width: 150 %></a>
+      <a href="http://technode.com/2014/04/11/6degrees-self-updating-phonebook-connects-relations-fingertips/"><%= image_tag 'media_logos/technode.png', height: 16, width: 104 %></a>
+      <a href="http://investing.businessweek.com/research/stocks/news/article.asp?docKey=600-201403051001KRTRIB__BUSNEWS_5187_50685-1&params=timestamp%7C%7C03%2F05%2F2014+10%3A01+AM+ET%7C%7Cheadline%7C%7CSharing+phone+contacts+made+easy+%5BMint%2C+New+Delhi+%3A%3A+%5D%7C%7CdocSource%7C%7CMcClatchy-Tribune%7C%7Cprovider%7C%7CACQUIREMEDIA%7C%7Cbridgesymbol%7C%7CUS%3BFB&ticker=FB"><%= image_tag 'media_logos/bloombergbusinessweek.png', height: 24, width: 104 %></a>
+      <a href="http://www.thehindubusinessline.com/features/the-duo-behind-the-app-that-secures-and-manages-your-contacts-list/article5928747.ece"><%= image_tag 'media_logos/thehindubusinessline.png', height: 20, width: 141 %></a>
+      <a href="http://economictimes.indiatimes.com/news/emerging-businesses/startups/indian-startup-six-degreez-wins-i-jam-programme-award-from-singapore-government/articleshow/29633613.cms"><%= image_tag 'media_logos/theeconomictimes.png', height: 17, width: 185 %></a>
+      <a href="http://www.watblog.com/2014/03/12/6degrees-makes-contacts-lists-live-and-makes-changing-phones-easy/"><%= image_tag 'media_logos/watblog.png', height: 26, width: 85 %></a>
+    </div>
+  </div>
+</section>
+<section class="footer section-nonfull">
   <div class="narrative">
     <p><%= image_tag 'sixdegrees_logo_lg.png', height: 192, width: 192 %></p>
     <p>6degrees is made collaboratively and with love in sunny Singapore and techy Bangalore.</p>

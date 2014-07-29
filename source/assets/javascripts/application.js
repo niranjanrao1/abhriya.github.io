@@ -31,9 +31,13 @@ $(function() {
   var isiOS = ua.indexOf("iphone") > -1 || ua.indexOf("ipod") > -1 || ua.indexOf("ipad") > -1;
   var isiOSPage = window.location.pathname == '/ios/';
   if (isiOS && !isiOSPage) {
+  //if (isiOS) {
     // Load iOS page
     //$('#nav-ios > a').trigger('click');
-    window.location = $('#nav-ios > a').attr('href');
+    //window.location = $('#nav-ios > a').attr('href');
+    $('#hero-ios').show();
+  } else {
+    $('#hero-android').show();
   }
 
   // Fullpage
@@ -55,7 +59,7 @@ $(function() {
     });
   }
   // if ($('.section').length > 0) {
-  if ($('.section').length > 0 && $('body.enterprise').length < 1) {
+  if ($('.section').length > 0 && $('body.no-fp').length < 1) {
     initFullpage();
   }
 

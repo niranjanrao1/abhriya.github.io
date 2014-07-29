@@ -82,6 +82,16 @@ body.enterprise .navbar {
 
 // Sections
 
+.section-nonfull {
+  border-bottom: 1px solid $hr-border;
+  padding-bottom: 64px;
+}
+
+#hero-android,
+#hero-ios {
+  display: none;
+}
+
 .section {
   background-color: $body-bg;
   overflow: hidden;
@@ -220,6 +230,22 @@ body.enterprise .navbar {
   }
 }
 
+.no-fp .section.hero-primary {
+  height: 448px;
+}
+
+@media (min-width: $screen-sm-min) {
+  .no-fp .section.hero-primary {
+    height: 688px;
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  .no-fp .section.hero-primary {
+    height: 688px;
+  }
+}
+
 .download-badge {
   background-size: 144px 48px;
   display: block;
@@ -238,6 +264,20 @@ body.enterprise .navbar {
 @media (min-width: $screen-sm-min) {
   .download-badge {
     margin: $grid-gutter-width auto;
+  }
+}
+
+
+// Media (Featured on)
+// --------------------------------------------------
+
+.media-logos {
+  margin: 0 auto;
+  max-width: 800px;
+  a {
+    img {
+      margin: 10px;
+    }
   }
 }
 
