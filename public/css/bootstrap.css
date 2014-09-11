@@ -5945,15 +5945,20 @@ body {
 #hero {
   border-bottom: 1px solid #cccccc;
   height: 100%;
-  min-height: 560px;
+  min-height: 928px;
   background-image: url('../img/6degrees_hero_android.jpg');
   background-size: contain;
-  background-position: 50% 100%;
+  background-position: -50% 100%;
   background-repeat: no-repeat;
   margin-top: -132px;
 }
 .ios #hero {
   background-image: url('../img/6degrees_hero_iphone.jpg');
+}
+@media (min-width: 992px) {
+  .ios #hero {
+    background-image: url('../img/6degrees_hero_iphone_m.jpg');
+  }
 }
 #intro {
   margin-top: 112px;
@@ -5976,7 +5981,9 @@ body {
 }
 @media (min-width: 992px) {
   #hero {
+    background-position: 50% 100%;
     margin-top: -158px;
+    min-height: 720px;
   }
   #intro {
     margin-top: 160px;
