@@ -51,11 +51,9 @@ $on-laptop:        800px;
 
 
 
-.site-nav{
-   .page-link {
+ .navbar-default .navbar-nav>li>a, .navbar-default .navbar-text{
     color: #5693f9;
-  }
-}
+    }
 
 .post-content p {
 	text-align: justify;
