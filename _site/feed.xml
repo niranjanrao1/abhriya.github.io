@@ -4,10 +4,10 @@
     <title>6degrees</title>
     <description>6degrees is the self-updating phonebook that helps you verify your friends&#39; details, cleans duplicates, integrates your social networks and backs itself up.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Sep 2014 16:11:37 +0530</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2014 16:11:37 +0530</lastBuildDate>
+    <link>http://www.get6degrees.com/</link>
+    <atom:link href="http://www.get6degrees.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 12 Sep 2014 16:18:41 +0530</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2014 16:18:41 +0530</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -22,11 +22,11 @@
 
 &lt;p&gt;For our next session, I decided to go straight to the demo. And I started with how we were helping people delete their duplicate contacts. I showed the audience how 6degrees organizes their duplicate contacts into sets, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/others-duplicates_play_store_screenshot_2-5.png&quot; alt=&quot;Duplicate Contacts Displayed&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/others-duplicates_play_store_screenshot_2-5.png&quot; alt=&quot;Duplicate Contacts Displayed&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;…and from there, how they can simply tick them and merge/delete them, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/post3_duplicates1.gif&quot; alt=&quot;Choose the duplicates Merge/Delete them&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/post3_duplicates1.gif&quot; alt=&quot;Choose the duplicates Merge/Delete them&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Choose the duplicates and merge/ delete them&lt;/p&gt;
 
@@ -40,14 +40,14 @@
 
 &lt;p&gt;Duplicates are basically of two types – 1) Identical duplicates, where two contacts have the exact same number of fields, and the exact same values for each field, and 2) non-identical duplicates, where two contacts belong to the same friend of yours, but contain one or more different fields/ values. These are caused by several factors, the most common being several invasive apps on your own phone that add duplicates to your contact list. The 6degrees app has a “Delete Duplicates” feature at the bottom of your contacts list, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;The [X] icon at the bottom helps you view/delete duplicates&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;The [X] icon at the bottom helps you view/delete duplicates&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The first time you click on that icon, the 6degrees app takes a few seconds to arrange your duplicates into sets for you to see. Identical duplicates are easy to deal with – 6degrees deletes all but one copy of each of those, so you are left with one copy of each identical set. The non-identical duplicates are then displayed in a clear form (see the first image above) for users to play with.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 11 Sep 2014 21:53:48 +0530</pubDate>
-        <link>http://localhost:4000/thoughts/2014/09/11/AnnoyingDuplicates.html</link>
-        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/11/AnnoyingDuplicates.html</guid>
+        <link>http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</link>
+        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</guid>
         
         
         <category>thoughts</category>
