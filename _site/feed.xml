@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6degrees</title>
-    <description>6degrees is the self-updating phonebook that helps you verify your friends&#39; details, cleans duplicates, integrates your social networks and backs itself up.
+    <description>6degrees is the self-updating phonebook that helps you verify your friends' details, cleans duplicates, integrates your social networks and backs itself up.
 </description>
     <link>http://www.get6degrees.com/</link>
     <atom:link href="http://www.get6degrees.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Sep 2014 19:56:11 +0530</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2014 19:56:11 +0530</lastBuildDate>
+    <pubDate>Sun, 14 Sep 2014 18:12:40 +0800</pubDate>
+    <lastBuildDate>Sun, 14 Sep 2014 18:12:40 +0800</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -32,7 +32,7 @@
 
 &lt;p&gt;It was a hit.&lt;/p&gt;
 
-&lt;p&gt;I could tell immediately that we’d got the audience’s attention. That we were solving a problem that mattered to them. I spent th next two hours answering enthusiastic questions (through the interpreter, of course) about what else 6degrees could do – our Live network of phonebooks, our Search feature, and our plans for an inbuilt yellow-pages feature.&lt;/p&gt;
+&lt;p&gt;I could tell immediately that we’d got the audience’s attention. That we were solving a problem that mattered to them. I spent the next two hours answering enthusiastic questions (through the interpreter, of course) about what else 6degrees could do – our Live network of phonebooks, our Search feature, and our plans for an inbuilt yellow-pages feature.&lt;/p&gt;
 
 &lt;p&gt;That day was a reminder to me of the power of technology, and ultimately of how similar people are across the world, in many small ways – here I was, a complete stranger from another culture, on my first visit to one of the most enigmatic countries on the tech map, and I realized how the problems that we in the English-speaking world have, find an equal resonance among people from China. It was a good reminder, and I felt motivated.&lt;/p&gt;
 
@@ -45,9 +45,9 @@
 &lt;p&gt;The first time you click on that icon, the 6degrees app takes a few seconds to arrange your duplicates into sets for you to see. Identical duplicates are easy to deal with – 6degrees deletes all but one copy of each of those, so you are left with one copy of each identical set. The non-identical duplicates are then displayed in a clear form (see the first image above) for users to play with.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 11 Sep 2014 21:53:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</guid>
+        <pubDate>Fri, 12 Sep 2014 00:23:48 +0800</pubDate>
+        <link>http://www.get6degrees.com/thoughts/2014/09/12/AnnoyingDuplicates.html</link>
+        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/09/12/AnnoyingDuplicates.html</guid>
         
         
         <category>thoughts</category>

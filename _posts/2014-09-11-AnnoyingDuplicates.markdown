@@ -27,7 +27,7 @@ Choose the duplicates and merge/ delete them
 
 It was a hit.
 
-I could tell immediately that we’d got the audience’s attention. That we were solving a problem that mattered to them. I spent th next two hours answering enthusiastic questions (through the interpreter, of course) about what else 6degrees could do – our Live network of phonebooks, our Search feature, and our plans for an inbuilt yellow-pages feature.
+I could tell immediately that we’d got the audience’s attention. That we were solving a problem that mattered to them. I spent the next two hours answering enthusiastic questions (through the interpreter, of course) about what else 6degrees could do – our Live network of phonebooks, our Search feature, and our plans for an inbuilt yellow-pages feature.
 
 That day was a reminder to me of the power of technology, and ultimately of how similar people are across the world, in many small ways – here I was, a complete stranger from another culture, on my first visit to one of the most enigmatic countries on the tech map, and I realized how the problems that we in the English-speaking world have, find an equal resonance among people from China. It was a good reminder, and I felt motivated.
 
