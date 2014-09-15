@@ -453,6 +453,9 @@ pre {
 .post-content p {
   text-align: justify; }
 
+.page-content {
+  padding: 0px 0; }
+
 HTML CSS Result
 Edit on
 .container {

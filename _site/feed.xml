@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6degrees</title>
-    <description>6degrees is the self-updating phonebook that helps you verify your friends' details, cleans duplicates, integrates your social networks and backs itself up.
+    <description>6degrees is the self-updating phonebook that helps you verify your friends&#39; details, cleans duplicates, integrates your social networks and backs itself up.
 </description>
     <link>http://www.get6degrees.com/</link>
     <atom:link href="http://www.get6degrees.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Sep 2014 18:12:40 +0800</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2014 18:12:40 +0800</lastBuildDate>
+    <pubDate>Mon, 15 Sep 2014 23:15:31 +0530</pubDate>
+    <lastBuildDate>Mon, 15 Sep 2014 23:15:31 +0530</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -26,7 +26,7 @@
 
 &lt;p&gt;…and from there, how they can simply tick them and merge/delete them, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/post3_duplicates1.gif&quot; alt=&quot;Choose the duplicates Merge/Delete them&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/post3_duplicates1.gif&quot; alt=&quot;Choose the duplicates and Merge/Delete them&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Choose the duplicates and merge/ delete them&lt;/p&gt;
 
@@ -45,9 +45,107 @@
 &lt;p&gt;The first time you click on that icon, the 6degrees app takes a few seconds to arrange your duplicates into sets for you to see. Identical duplicates are easy to deal with – 6degrees deletes all but one copy of each of those, so you are left with one copy of each identical set. The non-identical duplicates are then displayed in a clear form (see the first image above) for users to play with.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 12 Sep 2014 00:23:48 +0800</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/09/12/AnnoyingDuplicates.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/09/12/AnnoyingDuplicates.html</guid>
+        <pubDate>Thu, 11 Sep 2014 21:53:48 +0530</pubDate>
+        <link>http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</link>
+        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>Serendipity and geometry decided our startup’s name and logo</title>
+        <description>&lt;p&gt;It was a hot, sweaty December mid-morning in Singapore last year, when Arun and I took a bus to the nearby Starbucks to meet a large cloud solutions provider. We were happy with our existing setup but exploring newer, better options. We had a lengthy meeting full of technical discussions and business outlook, along with our product demo and description. We didn’t really get what we were looking for from the guy, and it was clear about 5 minutes in, that the meeting would be a wipeout. We enjoyed the coffee (and the air-conditioning), but as we got up to leave, the guy said something that made the meeting unforgettably impactful for us.&lt;/p&gt;
+
+&lt;p&gt;“This is great, what you guys are doing - it’s like the seven degrees of separation, you know. Everyone can see how they are related to friends’ friends. It’s cool.”&lt;/p&gt;
+
+&lt;p&gt;Even as I mentally corrected him in my mind from 7 to 6, Arun and I instantly knew what we were going to call our product. We’d been looking for a new name for a while (we used to call it Livebook internally earlier, before we made it public) and all our naming ideas had started to sound bad after just a few hours of thinking. I guess it’s a bit like naming a baby - without the gender considerations. You really want to get it absolutely perfectly right. And serendipitously, we’d got our “perfect” name from a total stranger.&lt;/p&gt;
+
+&lt;p&gt;Sadly, serendipity didn’t help us much in our search for a logo.&lt;/p&gt;
+
+&lt;p&gt;As any basic google search will tell you, 6degrees is the popular theory originally set out by Frigyes Karinthy and popularized by a play written by John Guare – that everyone and everything is six or fewer steps away, by way of introduction, from any other person in the world. This, in essence is what 6degrees is all about – to be a network of contacts where everyone is connected in some way.&lt;/p&gt;
+
+&lt;p&gt;To begin with, we had chosen a name that didn’t directly convey our product’s features (unlike Mcdonald’s burgers, for example). Our choice was subtler, and most people in our circles didn’t know separation theory. However, we could still aim to create a relatively simple logo that didn’t clash with the name, and yet capture the user’s psycho-optical attention. Unlike a Whatsapp, a very simple name that has a chat app screaming from its logo itself, we were more like a Firefox - a more attractive name, which simply translated the attractiveness of the name to the logo. This post is not to justify our choice or to write a how-to - it is merely our story. There are often multiple correct answers in such situations.&lt;/p&gt;
+
+&lt;p&gt;Our designer Aen, who I think is hands-down the best UX guy in Singapore, accepted our simple principles and allowed his sense of geometry to do the magic.&lt;/p&gt;
+
+&lt;p&gt;The mathematical constructs in the logo’s geometrical form are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Continuity&lt;/li&gt;
+  &lt;li&gt;Hexagon&lt;/li&gt;
+  &lt;li&gt;Equilaterals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Continuity&lt;/p&gt;
+
+&lt;p&gt;Instead of placing the degree symbol in an arbitrary position, he used the ascender of the 6 as the guide and placed it along the outer curve.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_logo_construction_gif.gif&quot; alt=&quot;6degrees logo - stepwise geometric construction&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The counter of the 6 is also placed in the same continuum as the ascender in a configuration similar to the Large Hadron Collider which accelerates protons from the smaller circle into the large circle.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/Location_Large_Hadron_Collider.PNG&quot; alt=&quot;Large Hadron Collider&quot; style=&quot;width: 400px;height:400px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hexagon&lt;/p&gt;
+
+&lt;p&gt;Being six-sided, the hexagon is the perfect polygon to communicate the concept of six degrees of separation. The hexagon is also one of the most efficient shapes in nature. Bees instinctively construct their hives as three-dimensional hexagons because they make for robust structures that cost the least wax. Since 6degrees is very much about maintaining a clean and efficient contact list, having a hexagonal frame makes sense.
+&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_on_hexagon.png&quot; alt=&quot;Hexagon&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Graphite is made up of layers of graphene, each a single atom thick. In graphene carbon atoms are arranged in a hexagonal grid. Carbon nanotubes which are essentially rolled up tubes of graphene owe their strength to this hexagonal nature.
+Equilaterals&lt;/p&gt;
+
+&lt;p&gt;Hexagons have internal angles of 720°. Each vertice is 120°. A hexagon can be sliced into six equilateral triangles. Each one can be half into two right-angle triangles. Overlaying the hexagon over the outer circle, he broke it into twelve equal parts.
+&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_equilaterals.png&quot; alt=&quot;Equilaterals&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The four equal segments of the top-left quadrant of the cake determine the symmetry of the 6 and the distance from the terminal to the degree symbol. This manner of constructing the 6 feels stable and balanced. As a result the 6 despite being heavier on its left side stays in equilibrium because of its attachment to the degree symbol.&lt;/p&gt;
+
+&lt;p&gt;So there it is - that’s how we got our logo.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 May 2014 11:53:48 +0530</pubDate>
+        <link>http://www.get6degrees.com/thoughts/2014/05/19/SerendipityGeometry.html</link>
+        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/05/19/SerendipityGeometry.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>To Begin at the beginning</title>
+        <description>&lt;p&gt;What if you could update your details on your own phone, and it automatically updated all your chosen friends’ phones?&lt;/p&gt;
+
+&lt;p&gt;In April 2003, after four years of having the most fun time of my life with my friends in college, it was finally time to say goodbye. Four years had flown by with more volleyball than engineering, and we had spent all our time in togetherness and fun, rather than in competition. Some of us were going to study further, some had a job, and some had yet to find a job. Some would stay on in the same city, some would move out, and yet others left the country to go abroad. But as they say, your friends in college are your friends for life, and it certainly felt that way to us 21-year-olds, so we never imagined that we’d ever lose touch with one another.&lt;/p&gt;
+
+&lt;p&gt;In the years to follow, as life moved us from one place to another and one phone number to another, and as we lost our phones and our email passwords and got busy in our own careers, we gradually lost touch with one another. So much so that today, we hardly know which of us is married, who lives where, and indeed what we all are doing with our lives.&lt;/p&gt;
+
+&lt;p&gt;How did this happen? Apart from the general, tempting explanation that we were all too busy to care about each other, I believe there are specific technological, behavioral explanations too. Understanding the process of losing touch in the modern, smartphone-wielding world is the key to preventing it and solving this problem. Here are some aspects of our behaviour that I think might give us a clue:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We are all heavily dependent on our phones. In specific, our address books. Increasingly, our phone’s address book has come to dominate all other methods of storing our contacts – nowhere else is our entire universe of relationships more comprehensively represented. From our family to our plumber, all our connections are concentrated in our phone.&lt;/li&gt;
+  &lt;li&gt;Our address books don’t recognize people. To our phones, our contacts are merely alphabets and numerals, with no identity. I may have a phone number under “Mom”, but my phone does not know whose contact it really is. If someone else tomorrow starts using that number after my mom gives it up, my phone will still have that number under “Mom”.&lt;/li&gt;
+  &lt;li&gt;We take our address books for granted. We don’t keep it updated, or well-maintained, because it’s a lot of effort to check whether each phone number, each email address and each postal address is still accurate. We often meet people twice and enter their new number or new email address under a different name, while an earlier entry may have been under a nickname.&lt;/li&gt;
+  &lt;li&gt;We have no way to update others’ address books when we change our details. Sure, I could send an email to a hundred people and risk being sent straight to their spam folder. I could send free messages on Whatsapp – if my connections are there. I could send SMS messages too, except that they cost money, especially for international messages. I certainly don’t want to be putting my number up on Facebook. And they will still need to do the work of noting my number down in their phones. There is NO elegant way to let my friends know that the number under my name on their phone no longer belongs to me.&lt;/li&gt;
+  &lt;li&gt;In 2014, losing a phone is still a death sentence to our address book. And a lot of us lose/damage our phones at some point. There are limited contacts-backup options available, but while some of them are platform-restrictive (iCloud), others are highly intrusive and often malfunction while syncing. Besides, you can’t do much else with them – they’re just a bin where you put all your contacts and keep on syncing with them for the rest of your life.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;That’s how the story of 6degrees began.&lt;/p&gt;
+
+&lt;p&gt;What if you could update your details on your own phone, and it automatically updated all your chosen friends’ phones?&lt;/p&gt;
+
+&lt;p&gt;What if, if you lost your phone, you could just buy a new phone and magically see all your contacts there – all neat and up-to-date?&lt;/p&gt;
+
+&lt;p&gt;What if your phone could recognize people, and when many of your contacts actually refer to the same person, suggest them to you for instant merging?&lt;/p&gt;
+
+&lt;p&gt;That’s how the story of 6degrees began.&lt;/p&gt;
+
+&lt;p&gt;P.S: the 6degrees website is available at &lt;a href=&quot;http://www.get6degrees.com&quot;&gt;www.get6degrees.com&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 May 2014 11:53:48 +0530</pubDate>
+        <link>http://www.get6degrees.com/thoughts/2014/05/15/BeginAtBeginning.html</link>
+        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/05/15/BeginAtBeginning.html</guid>
         
         
         <category>thoughts</category>

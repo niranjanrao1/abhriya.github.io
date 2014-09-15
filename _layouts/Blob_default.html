@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+ <img src="{{site.url}}/assets/6degrees_FB_cover_photo.jpg" alt="Cover Photo" style="width: 100%;margin-bottom:1.625em;margin:auto;display:block;"/>
+     <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
