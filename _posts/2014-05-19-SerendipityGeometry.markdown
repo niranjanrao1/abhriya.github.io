@@ -32,7 +32,7 @@ Instead of placing the degree symbol in an arbitrary position, he used the ascen
 
 The counter of the 6 is also placed in the same continuum as the ascender in a configuration similar to the Large Hadron Collider which accelerates protons from the smaller circle into the large circle.
 
-<img src="{{site.url}}/assets/Location_Large_Hadron_Collider.png" alt="Large Hadron Collider" style="width: 400px;height:400px;margin-bottom:1.625em;margin:auto;display:block;"/>
+<img src="{{site.url}}/assets/Location_Large_Hadron_Collider.PNG" alt="Large Hadron Collider" style="width: 400px;height:400px;margin-bottom:1.625em;margin:auto;display:block;"/>
 
 Hexagon
 
