@@ -19,7 +19,7 @@ For our next session, I decided to go straight to the demo. And I started with h
 
 …and from there, how they can simply tick them and merge/delete them, like this:
 
-<img src="{{site.url}}/assets/post3_duplicates1.gif" alt="Choose the duplicates Merge/Delete them" style="width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;"/>
+<img src="{{site.url}}/assets/post3_duplicates1.gif" alt="Choose the duplicates and Merge/Delete them" style="width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;"/>
 
 
 Choose the duplicates and merge/ delete them
