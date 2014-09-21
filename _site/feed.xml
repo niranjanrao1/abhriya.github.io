@@ -2,13 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6degrees</title>
-    <description>6degrees is the self-updating phonebook that helps you verify your friends&#39; details, cleans duplicates, integrates your social networks and backs itself up.
+    <description>6degrees is the self-updating phonebook that helps you verify your friends' details, cleans duplicates, integrates your social networks and backs itself up.
 </description>
-    <link>http://www.get6degrees.com/</link>
-    <atom:link href="http://www.get6degrees.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Sep 2014 23:15:31 +0530</pubDate>
-    <lastBuildDate>Mon, 15 Sep 2014 23:15:31 +0530</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 21 Sep 2014 15:09:59 +0800</pubDate>
+    <lastBuildDate>Sun, 21 Sep 2014 15:09:59 +0800</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Ever lost your contacts because you lost your phone?</title>
+        <description>&lt;p&gt;This post deals with one of man’s deepest fears in the modern era - losing or damaging his phone, and hence losing all his contacts.&lt;/p&gt;
+
+&lt;p&gt;Perhaps one of the unique things about phone contacts, compared to other “social” platforms, is that they are always growing, and that too organically. People don’t “stalk” others and add them on their phonebook the way they do on LinkedIn or Facebook - you meet someone, you care enough to stay in touch, and you exchange contact information. This interaction forms the atom, the smallest building block, of your phonebook. When I bought my first phone, it had zero contacts. That’s never happened again. 10 contacts went to 50, and to 100, and to 500. Today I have more than 1600 contacts. It only grows. We rarely delete people contacts from our phonebook. And it’s not just the contacts that we care about - it’s also the favourites, the recent calls - the whole package.&lt;/p&gt;
+
+&lt;p&gt;The second distinguishing feature of the “organic” phonebook is that people will go to great lengths to preserve the information there. When we change phones, we use external software, often paid apps, to move contacts across platforms. Some people pay for online storage because they don’t trust the free ones. You never hear someone saying, “I’m going to log off my phonebook now - it takes up too much of my time”, unlike “social” networks, where users often delete their account.&lt;/p&gt;
+
+&lt;p&gt;Given how important, and increasingly big, the phonebook is - we decided we’d make it a little easier for people to move from one phone to another with an easy, portable phonebook. Here’s how.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;On your existing (old) phone, download and install &lt;a href=&quot;http://www.get6degrees.com&quot;&gt;6degrees&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Finish the sign-up process and create your own “Live Contact” which will be visible to your friends on 6degrees. You can currently sign up through your own email ID and password, or through Facebook or Google+ (a.k.a social signup). The social sign-up page looks like this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Social_Signup_page.png&quot; alt=&quot;Social Signup page&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Once you’ve signed up, give it a few minutes to identify your “Live” contacts - meaning people on your phonebook (your friends) who are already on 6degrees. This takes a couple of minutes. Once this is done, you will get a notification saying “We have finished searching for your Live contacts”. If you do have friends on 6degrees, you will see a non-zero number on the top right, in the “Live” bar, like this:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Post-sync_coach_mark1.png&quot; alt=&quot;6degrees Contacts after Live&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;On your new phone, download 6degrees and sign in using the same email ID and password, or using the same social network (facebook or Google+) as your old phone. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s it. You will see the exact same Contacts List on your new phone now. Not only that, all your favourites, recent calls etc will also be visible exactly as in your old phone.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;6degrees Contacts on new phone&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The cool thing is - you no longer NEED to use your native phonebook on your phone. Drag 6degrees into the place on your homescreen where your existing native phonebook is - it does everything that your existing phonebook does, and more! 6degrees can be your new phonebook. And your contacts are no longer dependent on your device.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 21 Sep 2014 21:07:48 +0800</pubDate>
+        <link>http://localhost:4000/thoughts/2014/09/21/BackUpPhonebook.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/21/BackUpPhonebook.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
     
       <item>
         <title>Those annoying multiple copies of contacts on your phone!</title>
@@ -22,11 +65,11 @@
 
 &lt;p&gt;For our next session, I decided to go straight to the demo. And I started with how we were helping people delete their duplicate contacts. I showed the audience how 6degrees organizes their duplicate contacts into sets, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/others-duplicates_play_store_screenshot_2-5.png&quot; alt=&quot;Duplicate Contacts Displayed&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/others-duplicates_play_store_screenshot_2-5.png&quot; alt=&quot;Duplicate Contacts Displayed&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;…and from there, how they can simply tick them and merge/delete them, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/post3_duplicates1.gif&quot; alt=&quot;Choose the duplicates and Merge/Delete them&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/post3_duplicates1.gif&quot; alt=&quot;Choose the duplicates and Merge/Delete them&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Choose the duplicates and merge/ delete them&lt;/p&gt;
 
@@ -40,14 +83,14 @@
 
 &lt;p&gt;Duplicates are basically of two types – 1) Identical duplicates, where two contacts have the exact same number of fields, and the exact same values for each field, and 2) non-identical duplicates, where two contacts belong to the same friend of yours, but contain one or more different fields/ values. These are caused by several factors, the most common being several invasive apps on your own phone that add duplicates to your contact list. The 6degrees app has a “Delete Duplicates” feature at the bottom of your contacts list, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;The [X] icon at the bottom helps you view/delete duplicates&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;The [X] icon at the bottom helps you view/delete duplicates&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The first time you click on that icon, the 6degrees app takes a few seconds to arrange your duplicates into sets for you to see. Identical duplicates are easy to deal with – 6degrees deletes all but one copy of each of those, so you are left with one copy of each identical set. The non-identical duplicates are then displayed in a clear form (see the first image above) for users to play with.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 11 Sep 2014 21:53:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</guid>
+        <pubDate>Fri, 12 Sep 2014 00:23:48 +0800</pubDate>
+        <link>http://localhost:4000/thoughts/2014/09/12/AnnoyingDuplicates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/12/AnnoyingDuplicates.html</guid>
         
         
         <category>thoughts</category>
@@ -82,30 +125,30 @@
 
 &lt;p&gt;Instead of placing the degree symbol in an arbitrary position, he used the ascender of the 6 as the guide and placed it along the outer curve.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_logo_construction_gif.gif&quot; alt=&quot;6degrees logo - stepwise geometric construction&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/6degrees_logo_construction_gif.gif&quot; alt=&quot;6degrees logo - stepwise geometric construction&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The counter of the 6 is also placed in the same continuum as the ascender in a configuration similar to the Large Hadron Collider which accelerates protons from the smaller circle into the large circle.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/Location_Large_Hadron_Collider.PNG&quot; alt=&quot;Large Hadron Collider&quot; style=&quot;width: 400px;height:400px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Location_Large_Hadron_Collider.PNG&quot; alt=&quot;Large Hadron Collider&quot; style=&quot;width: 400px;height:400px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hexagon&lt;/p&gt;
 
 &lt;p&gt;Being six-sided, the hexagon is the perfect polygon to communicate the concept of six degrees of separation. The hexagon is also one of the most efficient shapes in nature. Bees instinctively construct their hives as three-dimensional hexagons because they make for robust structures that cost the least wax. Since 6degrees is very much about maintaining a clean and efficient contact list, having a hexagonal frame makes sense.
-&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_on_hexagon.png&quot; alt=&quot;Hexagon&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/assets/6degrees_on_hexagon.png&quot; alt=&quot;Hexagon&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Graphite is made up of layers of graphene, each a single atom thick. In graphene carbon atoms are arranged in a hexagonal grid. Carbon nanotubes which are essentially rolled up tubes of graphene owe their strength to this hexagonal nature.
 Equilaterals&lt;/p&gt;
 
 &lt;p&gt;Hexagons have internal angles of 720°. Each vertice is 120°. A hexagon can be sliced into six equilateral triangles. Each one can be half into two right-angle triangles. Overlaying the hexagon over the outer circle, he broke it into twelve equal parts.
-&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_equilaterals.png&quot; alt=&quot;Equilaterals&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/assets/6degrees_equilaterals.png&quot; alt=&quot;Equilaterals&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The four equal segments of the top-left quadrant of the cake determine the symmetry of the 6 and the distance from the terminal to the degree symbol. This manner of constructing the 6 feels stable and balanced. As a result the 6 despite being heavier on its left side stays in equilibrium because of its attachment to the degree symbol.&lt;/p&gt;
 
 &lt;p&gt;So there it is - that’s how we got our logo.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 19 May 2014 11:53:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/05/19/SerendipityGeometry.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/05/19/SerendipityGeometry.html</guid>
+        <pubDate>Mon, 19 May 2014 14:23:48 +0800</pubDate>
+        <link>http://localhost:4000/thoughts/2014/05/19/SerendipityGeometry.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/05/19/SerendipityGeometry.html</guid>
         
         
         <category>thoughts</category>
@@ -143,9 +186,9 @@ Equilaterals&lt;/p&gt;
 &lt;p&gt;P.S: the 6degrees website is available at &lt;a href=&quot;http://www.get6degrees.com&quot;&gt;www.get6degrees.com&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 May 2014 11:53:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/05/15/BeginAtBeginning.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/05/15/BeginAtBeginning.html</guid>
+        <pubDate>Thu, 15 May 2014 14:23:48 +0800</pubDate>
+        <link>http://localhost:4000/thoughts/2014/05/15/BeginAtBeginning.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/05/15/BeginAtBeginning.html</guid>
         
         
         <category>thoughts</category>
