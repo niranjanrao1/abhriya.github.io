@@ -16,7 +16,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   color: #111;
-  background-color: #f6f6f6; }
+  background-color: #5693f9; }
 
 /**
  * Set `margin-bottom` to maintain vertycal rhythm
@@ -174,7 +174,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #f6f6f6;
+      background-color: #5693f9;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -447,8 +447,47 @@ pre {
   .highlight .il {
     color: #099; }
 
-.navbar-default .navbar-nav > li > a, .navbar-default .navbar-text {
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-text, .nav > li > a, #intro {
+  color: #f6f6f6; }
+
+.navbar-default:hover, .navbar-nav > li > a:hover, .nav > li > a:hover {
   color: #5693f9; }
+
+.navbar-default:focus, .navbar-nav > li > a:focus, .nav > li > a:focus {
+  color: #5693f9; }
+
+.navbar-custom {
+  background-color: #5693f9; }
+
+a:visited {
+  text-decoration: None;
+  color: #fff; }
+
+.post a:visited {
+  text-decoration: None;
+  color: #000; }
+
+.icon-bar {
+  background-color: #f6f6f6; }
+
+.blog {
+  background-color: #f6f6f6; }
+
+.post {
+  background-color: #f6f6f6;
+  margin-top: 100px; }
+
+.img-circle {
+  display: inline-block; }
+
+.twitter {
+  color: #00aced; }
+
+.linkedin {
+  color: #007bb6; }
+
+#team {
+  background-color: #fff; }
 
 .post-content p {
   text-align: justify; }

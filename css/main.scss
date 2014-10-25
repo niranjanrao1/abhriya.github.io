@@ -14,7 +14,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #f6f6f6;
+$background-color: #5693f9;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
@@ -51,16 +51,67 @@ $on-laptop:        800px;
 
 
 
- .navbar-default .navbar-nav>li>a, .navbar-default .navbar-text{
-    color: #5693f9;
+ .navbar-default .navbar-nav>li>a, .navbar-default .navbar-text,.nav>li>a,#intro{
+    color: #f6f6f6;
     }
+   .navbar-default:hover,.navbar-nav>li>a:hover,.nav>li>a:hover{
+    color: #5693f9;
+  }
+    .navbar-default:focus,.navbar-nav>li>a:focus,.nav>li>a:focus{
+    color: #5693f9;
+  }
 
+  .navbar-custom{
+ background-color: #5693f9;
+      }
+
+
+a:visited{
+  text-decoration:None;
+  color: #fff;
+}
+
+.post a:visited {
+  text-decoration: None;
+  color: #000; 
+  }
+
+
+.icon-bar{
+background-color: #f6f6f6;
+   
+}
+.blog{
+  background-color: #f6f6f6;
+  
+}
+.post{
+  background-color: #f6f6f6;
+  margin-top:100px;
+  
+}
+
+.img-circle{
+  display:inline-block;
+}
+
+.twitter{
+  color:#00aced;
+}
+
+.linkedin{
+  color:#007bb6;
+}
+#team{
+  background-color:#fff;
+}
 .post-content p {
 	text-align: justify;
 }
 
 .page-content {
   padding: 0px 0; }
+
 
 
 HTML  CSS   Result
