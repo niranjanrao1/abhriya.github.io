@@ -6,6 +6,11 @@ categories: Features
 ---
 This article attempts to show you something awesome - the people-finder feature on [6degrees].
 
+<video width="300" height="410" style="padding-bottom:20px;margin:auto;display:block;" controls>
+  <source src="{{site.url}}/assets/PeopleSearch_SearchVideo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
 When we were designing the search feature on 6degrees, we wanted to make something that would allow you, the user, to share your entire network of connections with people whom you trust - usually family, friends and good acquaintances - in return for access to theirs. While no contact details (phone numbers/ email addresses) are displayed, your friends can search for specific people and see whether they are on your phonebook. At the same time, you can hide any (or all) contacts on your phone's contact list from being searchable - this is explained later in this article.
 
 When you sign in to 6degrees, your contacts list will look like this.

@@ -2,23 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6degrees</title>
-    <description>6degrees is the self-updating phonebook that helps you verify your friends&#39; details, cleans duplicates, integrates your social networks and backs itself up.
+    <description>6degrees is the self-updating phonebook that helps you verify your friends' details, cleans duplicates, integrates your social networks and backs itself up.
 </description>
-    <link>http://www.get6degrees.com/</link>
-    <atom:link href="http://www.get6degrees.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Oct 2014 18:11:42 +0530</pubDate>
-    <lastBuildDate>Sat, 25 Oct 2014 18:11:42 +0530</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 01 Nov 2014 16:55:05 +0800</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2014 16:55:05 +0800</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>She searched for a cafe nearby. What happened next will blow your mind.</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/YellowPages_Beautiful_Girl.jpg&quot; alt=&quot;Beautiful girl&quot; style=&quot;width: 200px;height:301px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you clicked on this post just because of the headline and the pretty girl’s picture, click-baiting works! Sorry. Hopefully, the rest of this post will be worth your click. &lt;/p&gt;
+
+&lt;h3&gt;Finding a cafe on a friend's phone:&lt;/h3&gt;
+
+&lt;p&gt;Ever wondered which restaurants your friends like? Ever wanted to ask your friends for reommendations for the best plumber nearby, or maybe a good gym to go to? With &lt;a href=&quot;http://www.get6degrees.com&quot;&gt;6degrees&lt;/a&gt;, you can search your these and find results - on your friends’ phones. &lt;/p&gt;
+
+&lt;p&gt;What we’re saying is: don’t be boring - don’t just Google for what you want. Ask your friends. It’s more fun that way. &lt;/p&gt;
+
+&lt;p&gt;And if you have awesome places, shops and people on your phonebook, share them with your trusted friends and family - when people discover good places because of you, you’re the hero!&lt;/p&gt;
+
+&lt;h3&gt;What about Privacy?&lt;/h3&gt;
+
+&lt;p&gt;Of course, your friends need to give you access - if they trust you, they will connect to you on 6degrees. And as described in our &lt;a href=&quot;http://www.get6degrees.com/features/2014/10/11/PeopleSearch.html&quot;&gt;previous post&lt;/a&gt;, they can decide which contacts from their 6degrees phonebook are accessible to you. Besides - you can’t just open a particular friend’s contact list and go through it - you have to search for a specific thing that you are looking for. Like “cafe” or “Dr”. Here’s what you’ll see.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/YellowPages_CafeSearch.png&quot; alt=&quot;Cafe Search on 6degrees&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Get the details&lt;/h3&gt;
+
+&lt;p&gt;You can either click on the “Contacts of Contacts” category to view cafes on your friends’ phones, or click on “Nearby Places” to view cafes located near you. Remember to switch on your phone’s location-sharing. &lt;/p&gt;
+
+&lt;p&gt;Currently, we’re showing you these nearby places using Google’s Places feature. But soon, there will be more listings here from local partners.&lt;/p&gt;
+
+&lt;p&gt;To learn exactly how to request a cafe’s details from a friend’s phone in the “Contacts of Contacts” category, read our &lt;a href=&quot;http://www.get6degrees.com/features/2014/10/11/PeopleSearch.html&quot;&gt;previous post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Why we're doing this:&lt;/h3&gt;
+
+&lt;p&gt;This yellow-pages-like feature in 6degrees was born from our belief that your personal network isn’t just about family &amp;amp; friends - it includes other people who provide little services to you on a daily basis, and whom you might need at any time - your driver, your plumber, or a restaurant near your house. But most of these are unknown to us, and we often discover these through our network - our friends. That’s what we’re trying to unshackle - the power of your network. &lt;/p&gt;
+
+&lt;p&gt;P.S: Headline picture of young woman found at &lt;a href=&quot;http://thechive.com/2012/06/12/beautiful-girls-40-photos/simply-beautiful-34/&quot;&gt;thechive.com&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Nov 2014 22:50:48 +0800</pubDate>
+        <link>http://localhost:4000/features/2014/11/01/YellowPages.html</link>
+        <guid isPermaLink="true">http://localhost:4000/features/2014/11/01/YellowPages.html</guid>
+        
+        
+        <category>features</category>
+        
+      </item>
     
       <item>
         <title>A whole new way of finding new friends - through old ones</title>
         <description>&lt;p&gt;This article attempts to show you something awesome - the people-finder feature on &lt;a href=&quot;http://www.get6degrees.com&quot;&gt;6degrees&lt;/a&gt;.&lt;/p&gt;
 
+&lt;video width=&quot;300&quot; height=&quot;410&quot; style=&quot;padding-bottom:20px;margin:auto;display:block;&quot; controls=&quot;&quot;&gt;
+  &lt;source src=&quot;http://localhost:4000/assets/PeopleSearch_SearchVideo.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+
 &lt;p&gt;When we were designing the search feature on 6degrees, we wanted to make something that would allow you, the user, to share your entire network of connections with people whom you trust - usually family, friends and good acquaintances - in return for access to theirs. While no contact details (phone numbers/ email addresses) are displayed, your friends can search for specific people and see whether they are on your phonebook. At the same time, you can hide any (or all) contacts on your phone’s contact list from being searchable - this is explained later in this article.&lt;/p&gt;
 
 &lt;p&gt;When you sign in to 6degrees, your contacts list will look like this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;6degrees Contacts List&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;6degrees Contacts List&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The people in the “Live” section above your phone contacts are your Live Contacts - basically your friends who are on 6degrees already. The more friends you have on 6degrees, the more Live Contacts you have, and you will be able to access these people’s contacts that aren’t hidden. Similarly your Live Contacts can search for specific people on your contacts list - the ones that aren’t hidden.&lt;/p&gt;
 
@@ -26,7 +75,7 @@
 
 &lt;p&gt;Click on the search button on the top right and search for someone.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/PeopleSearch_SearchResults.png&quot; alt=&quot;Search Results&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/PeopleSearch_SearchResults.png&quot; alt=&quot;Search Results&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As you can see, 6degrees gives you results not only from your own phonebook (your 1st-degree contacts, at the bottom) but also from Contacts of your contacts (2nd-degree - from your Live Contacts’ phonebooks) and from everyone else on 6degrees (3rd degree and above). In addition, there’s a fourth category - Nearby Places. This will be the subject of a future blog post.&lt;/p&gt;
 
@@ -34,11 +83,11 @@
 
 &lt;p&gt;So if I click on the “Contacts of your contacts” category, I can see all the guys out there called “John” who are connected to me through at least 1 mutual friend.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/PeopleSearch_CoC_ResultsList.png&quot; alt=&quot;Contacts of your Contacts - Results&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/PeopleSearch_CoC_ResultsList.png&quot; alt=&quot;Contacts of your Contacts - Results&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The numbers on the right show the number of mutual contacts (Live Contacts) that I share with that person. If I click on John Alderson here, the below is what I see.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/PeopleSearch_JohnAlderson.png&quot; alt=&quot;John Alderson&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/PeopleSearch_JohnAlderson.png&quot; alt=&quot;John Alderson&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As you can see, I can’t see any contact details here, because I’m not connected to John Alderson yet, but I can request my mutual friends (below) for his contact. They will get a notification and can say Yes or No. If they say Yes, I will get John’s contacts, and he will get a notification saying I have received his contact from his friend (if John is a 6degrees user). Remember - I cannot choose a Live Contact of mine (such as Anthony Jacobs here) and go through his contacts to see whom I know. I have to search for a specific person.&lt;/p&gt;
 
@@ -46,16 +95,16 @@
 
 &lt;p&gt;Now if Anthony or Chloe do not want me or anyone else on 6degrees to know that John’s contact is on their phone, they can easily hide him. You can do this easily from your main contacts list by pressing the Edit (pencil) button at the bottom.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/PeopleSearch_EditMode.png&quot; alt=&quot;Hide Contacts&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/PeopleSearch_EditMode.png&quot; alt=&quot;Hide Contacts&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You can tick your secret contacts here and press the “Lock” button at the bottom. These contacts will no longer be visible to others in search results. In fact, you can even press the “Select All” button at the bottom and hide all your contacts this way.&lt;/p&gt;
 
 &lt;p&gt;So that’s how you use the People Search feature on 6degrees - go ahead and give it a try. You’ll be surprised by what you’ll discover about your personal network.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 11 Oct 2014 20:00:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/features/2014/10/11/PeopleSearch.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/features/2014/10/11/PeopleSearch.html</guid>
+        <pubDate>Sat, 11 Oct 2014 22:30:48 +0800</pubDate>
+        <link>http://localhost:4000/features/2014/10/11/PeopleSearch.html</link>
+        <guid isPermaLink="true">http://localhost:4000/features/2014/10/11/PeopleSearch.html</guid>
         
         
         <category>features</category>
@@ -77,13 +126,13 @@
   &lt;li&gt;Finish the sign-up process and create your own “Live Contact” which will be visible to your friends on 6degrees. You can currently sign up through your own email ID and password, or through Facebook or Google+ (a.k.a social signup). The social sign-up page looks like this.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/Social_Signup_page.png&quot; alt=&quot;Social Signup page&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Social_Signup_page.png&quot; alt=&quot;Social Signup page&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Once you’ve signed up, give it a few minutes to identify your “Live” contacts - meaning people on your phonebook (your friends) who are already on 6degrees. This takes a couple of minutes. Once this is done, you will get a notification saying “We have finished searching for your Live contacts”. If you do have friends on 6degrees, you will see a non-zero number on the top right, in the “Live” bar, like this:&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/Post-sync_coach_mark1.png&quot; alt=&quot;6degrees Contacts after Live&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Post-sync_coach_mark1.png&quot; alt=&quot;6degrees Contacts after Live&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;On your new phone, download 6degrees and sign in using the same email ID and password, or using the same social network (facebook or Google+) as your old phone. &lt;/li&gt;
@@ -91,14 +140,14 @@
 
 &lt;p&gt;That’s it. You will see the exact same Contacts List on your new phone now. Not only that, all your favourites, recent calls etc will also be visible exactly as in your old phone.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;6degrees Contacts on new phone&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;6degrees Contacts on new phone&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The cool thing is - you no longer NEED to use your native phonebook on your phone. Drag 6degrees into the place on your homescreen where your existing native phonebook is - it does everything that your existing phonebook does, and more! 6degrees can be your new phonebook. And your contacts are no longer dependent on your device.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 21 Sep 2014 18:37:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/09/21/BackUpPhonebook.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/09/21/BackUpPhonebook.html</guid>
+        <pubDate>Sun, 21 Sep 2014 21:07:48 +0800</pubDate>
+        <link>http://localhost:4000/thoughts/2014/09/21/BackUpPhonebook.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/21/BackUpPhonebook.html</guid>
         
         
         <category>thoughts</category>
@@ -117,11 +166,11 @@
 
 &lt;p&gt;For our next session, I decided to go straight to the demo. And I started with how we were helping people delete their duplicate contacts. I showed the audience how 6degrees organizes their duplicate contacts into sets, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/others-duplicates_play_store_screenshot_2-5.png&quot; alt=&quot;Duplicate Contacts Displayed&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/others-duplicates_play_store_screenshot_2-5.png&quot; alt=&quot;Duplicate Contacts Displayed&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block; &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;…and from there, how they can simply tick them and merge/delete them, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/post3_duplicates1.gif&quot; alt=&quot;Choose the duplicates and Merge/Delete them&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/post3_duplicates1.gif&quot; alt=&quot;Choose the duplicates and Merge/Delete them&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Choose the duplicates and merge/ delete them&lt;/p&gt;
 
@@ -135,14 +184,14 @@
 
 &lt;p&gt;Duplicates are basically of two types – 1) Identical duplicates, where two contacts have the exact same number of fields, and the exact same values for each field, and 2) non-identical duplicates, where two contacts belong to the same friend of yours, but contain one or more different fields/ values. These are caused by several factors, the most common being several invasive apps on your own phone that add duplicates to your contact list. The 6degrees app has a “Delete Duplicates” feature at the bottom of your contacts list, like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;The [X] icon at the bottom helps you view/delete duplicates&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/1-contacts_play_store_screenshot_2-5.png&quot; alt=&quot;The [X] icon at the bottom helps you view/delete duplicates&quot; style=&quot;width: 167px;height:297px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The first time you click on that icon, the 6degrees app takes a few seconds to arrange your duplicates into sets for you to see. Identical duplicates are easy to deal with – 6degrees deletes all but one copy of each of those, so you are left with one copy of each identical set. The non-identical duplicates are then displayed in a clear form (see the first image above) for users to play with.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 11 Sep 2014 21:53:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/09/11/AnnoyingDuplicates.html</guid>
+        <pubDate>Fri, 12 Sep 2014 00:23:48 +0800</pubDate>
+        <link>http://localhost:4000/thoughts/2014/09/12/AnnoyingDuplicates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/12/AnnoyingDuplicates.html</guid>
         
         
         <category>thoughts</category>
@@ -177,30 +226,30 @@
 
 &lt;p&gt;Instead of placing the degree symbol in an arbitrary position, he used the ascender of the 6 as the guide and placed it along the outer curve.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_logo_construction_gif.gif&quot; alt=&quot;6degrees logo - stepwise geometric construction&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/6degrees_logo_construction_gif.gif&quot; alt=&quot;6degrees logo - stepwise geometric construction&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The counter of the 6 is also placed in the same continuum as the ascender in a configuration similar to the Large Hadron Collider which accelerates protons from the smaller circle into the large circle.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.get6degrees.com/assets/Location_Large_Hadron_Collider.PNG&quot; alt=&quot;Large Hadron Collider&quot; style=&quot;width: 400px;height:400px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Location_Large_Hadron_Collider.PNG&quot; alt=&quot;Large Hadron Collider&quot; style=&quot;width: 400px;height:400px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hexagon&lt;/p&gt;
 
 &lt;p&gt;Being six-sided, the hexagon is the perfect polygon to communicate the concept of six degrees of separation. The hexagon is also one of the most efficient shapes in nature. Bees instinctively construct their hives as three-dimensional hexagons because they make for robust structures that cost the least wax. Since 6degrees is very much about maintaining a clean and efficient contact list, having a hexagonal frame makes sense.
-&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_on_hexagon.png&quot; alt=&quot;Hexagon&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/assets/6degrees_on_hexagon.png&quot; alt=&quot;Hexagon&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Graphite is made up of layers of graphene, each a single atom thick. In graphene carbon atoms are arranged in a hexagonal grid. Carbon nanotubes which are essentially rolled up tubes of graphene owe their strength to this hexagonal nature.
 Equilaterals&lt;/p&gt;
 
 &lt;p&gt;Hexagons have internal angles of 720°. Each vertice is 120°. A hexagon can be sliced into six equilateral triangles. Each one can be half into two right-angle triangles. Overlaying the hexagon over the outer circle, he broke it into twelve equal parts.
-&lt;img src=&quot;http://www.get6degrees.com/assets/6degrees_equilaterals.png&quot; alt=&quot;Equilaterals&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/assets/6degrees_equilaterals.png&quot; alt=&quot;Equilaterals&quot; style=&quot;width: 500px;height:375px;margin-bottom:1.625em;margin:auto;display:block;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The four equal segments of the top-left quadrant of the cake determine the symmetry of the 6 and the distance from the terminal to the degree symbol. This manner of constructing the 6 feels stable and balanced. As a result the 6 despite being heavier on its left side stays in equilibrium because of its attachment to the degree symbol.&lt;/p&gt;
 
 &lt;p&gt;So there it is - that’s how we got our logo.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 19 May 2014 11:53:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/05/19/SerendipityGeometry.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/05/19/SerendipityGeometry.html</guid>
+        <pubDate>Mon, 19 May 2014 14:23:48 +0800</pubDate>
+        <link>http://localhost:4000/thoughts/2014/05/19/SerendipityGeometry.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/05/19/SerendipityGeometry.html</guid>
         
         
         <category>thoughts</category>
@@ -238,9 +287,9 @@ Equilaterals&lt;/p&gt;
 &lt;p&gt;P.S: the 6degrees website is available at &lt;a href=&quot;http://www.get6degrees.com&quot;&gt;www.get6degrees.com&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 May 2014 11:53:48 +0530</pubDate>
-        <link>http://www.get6degrees.com/thoughts/2014/05/15/BeginAtBeginning.html</link>
-        <guid isPermaLink="true">http://www.get6degrees.com/thoughts/2014/05/15/BeginAtBeginning.html</guid>
+        <pubDate>Thu, 15 May 2014 14:23:48 +0800</pubDate>
+        <link>http://localhost:4000/thoughts/2014/05/15/BeginAtBeginning.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/05/15/BeginAtBeginning.html</guid>
         
         
         <category>thoughts</category>
