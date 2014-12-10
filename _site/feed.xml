@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6degrees</title>
-    <description>6degrees is the self-updating phonebook that helps you verify your friends' details, cleans duplicates, integrates your social networks and backs itself up.
+    <description>6degrees is the self-updating phonebook that helps you verify your friends&#39; details, cleans duplicates, integrates your social networks and backs itself up.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 01 Nov 2014 16:55:05 +0800</pubDate>
-    <lastBuildDate>Sat, 01 Nov 2014 16:55:05 +0800</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2014 16:26:25 +0530</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2014 16:26:25 +0530</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;If you clicked on this post just because of the headline and the pretty girl’s picture, click-baiting works! Sorry. Hopefully, the rest of this post will be worth your click. &lt;/p&gt;
 
-&lt;h3&gt;Finding a cafe on a friend's phone:&lt;/h3&gt;
+&lt;h3&gt;Finding a cafe on a friend&#39;s phone:&lt;/h3&gt;
 
 &lt;p&gt;Ever wondered which restaurants your friends like? Ever wanted to ask your friends for reommendations for the best plumber nearby, or maybe a good gym to go to? With &lt;a href=&quot;http://www.get6degrees.com&quot;&gt;6degrees&lt;/a&gt;, you can search your these and find results - on your friends’ phones. &lt;/p&gt;
 
@@ -38,14 +38,14 @@
 
 &lt;p&gt;To learn exactly how to request a cafe’s details from a friend’s phone in the “Contacts of Contacts” category, read our &lt;a href=&quot;http://www.get6degrees.com/features/2014/10/11/PeopleSearch.html&quot;&gt;previous post&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3&gt;Why we're doing this:&lt;/h3&gt;
+&lt;h3&gt;Why we&#39;re doing this:&lt;/h3&gt;
 
 &lt;p&gt;This yellow-pages-like feature in 6degrees was born from our belief that your personal network isn’t just about family &amp;amp; friends - it includes other people who provide little services to you on a daily basis, and whom you might need at any time - your driver, your plumber, or a restaurant near your house. But most of these are unknown to us, and we often discover these through our network - our friends. That’s what we’re trying to unshackle - the power of your network. &lt;/p&gt;
 
 &lt;p&gt;P.S: Headline picture of young woman found at &lt;a href=&quot;http://thechive.com/2012/06/12/beautiful-girls-40-photos/simply-beautiful-34/&quot;&gt;thechive.com&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 01 Nov 2014 22:50:48 +0800</pubDate>
+        <pubDate>Sat, 01 Nov 2014 20:20:48 +0530</pubDate>
         <link>http://localhost:4000/features/2014/11/01/YellowPages.html</link>
         <guid isPermaLink="true">http://localhost:4000/features/2014/11/01/YellowPages.html</guid>
         
@@ -102,7 +102,7 @@ Your browser does not support the video tag.
 &lt;p&gt;So that’s how you use the People Search feature on 6degrees - go ahead and give it a try. You’ll be surprised by what you’ll discover about your personal network.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 11 Oct 2014 22:30:48 +0800</pubDate>
+        <pubDate>Sat, 11 Oct 2014 20:00:48 +0530</pubDate>
         <link>http://localhost:4000/features/2014/10/11/PeopleSearch.html</link>
         <guid isPermaLink="true">http://localhost:4000/features/2014/10/11/PeopleSearch.html</guid>
         
@@ -145,7 +145,7 @@ Your browser does not support the video tag.
 &lt;p&gt;The cool thing is - you no longer NEED to use your native phonebook on your phone. Drag 6degrees into the place on your homescreen where your existing native phonebook is - it does everything that your existing phonebook does, and more! 6degrees can be your new phonebook. And your contacts are no longer dependent on your device.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 21 Sep 2014 21:07:48 +0800</pubDate>
+        <pubDate>Sun, 21 Sep 2014 18:37:48 +0530</pubDate>
         <link>http://localhost:4000/thoughts/2014/09/21/BackUpPhonebook.html</link>
         <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/21/BackUpPhonebook.html</guid>
         
@@ -189,9 +189,9 @@ Your browser does not support the video tag.
 &lt;p&gt;The first time you click on that icon, the 6degrees app takes a few seconds to arrange your duplicates into sets for you to see. Identical duplicates are easy to deal with – 6degrees deletes all but one copy of each of those, so you are left with one copy of each identical set. The non-identical duplicates are then displayed in a clear form (see the first image above) for users to play with.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 12 Sep 2014 00:23:48 +0800</pubDate>
-        <link>http://localhost:4000/thoughts/2014/09/12/AnnoyingDuplicates.html</link>
-        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/12/AnnoyingDuplicates.html</guid>
+        <pubDate>Thu, 11 Sep 2014 21:53:48 +0530</pubDate>
+        <link>http://localhost:4000/thoughts/2014/09/11/AnnoyingDuplicates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/thoughts/2014/09/11/AnnoyingDuplicates.html</guid>
         
         
         <category>thoughts</category>
@@ -247,7 +247,7 @@ Equilaterals&lt;/p&gt;
 
 &lt;p&gt;So there it is - that’s how we got our logo.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 19 May 2014 14:23:48 +0800</pubDate>
+        <pubDate>Mon, 19 May 2014 11:53:48 +0530</pubDate>
         <link>http://localhost:4000/thoughts/2014/05/19/SerendipityGeometry.html</link>
         <guid isPermaLink="true">http://localhost:4000/thoughts/2014/05/19/SerendipityGeometry.html</guid>
         
@@ -287,7 +287,7 @@ Equilaterals&lt;/p&gt;
 &lt;p&gt;P.S: the 6degrees website is available at &lt;a href=&quot;http://www.get6degrees.com&quot;&gt;www.get6degrees.com&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 15 May 2014 14:23:48 +0800</pubDate>
+        <pubDate>Thu, 15 May 2014 11:53:48 +0530</pubDate>
         <link>http://localhost:4000/thoughts/2014/05/15/BeginAtBeginning.html</link>
         <guid isPermaLink="true">http://localhost:4000/thoughts/2014/05/15/BeginAtBeginning.html</guid>
         

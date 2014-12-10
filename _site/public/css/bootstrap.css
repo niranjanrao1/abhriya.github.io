@@ -5958,6 +5958,70 @@ body {
     background-image: url('../img/6degrees_hero_iphone_m.jpg');
   }
 }
+
+.features {
+ background-color: #fff;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: -999em;
+  border-bottom: 1px solid #cccccc;
+}
+
+.features img{
+    display: inline-block;
+    width: 35%;
+    float: left;
+}
+.features video{
+    display: inline-block;
+    width: 35%;
+    float: left;
+}
+
+
+.features .features-content {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  min-height: 226px;
+  float: right;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+
+@media (min-width: 768px) {
+  .features .features-content {
+    padding: 48px 0 80px;
+    width: 50%;
+  }
+}
+@media (min-width: 768px) {
+  .features .features-content {
+    padding: 48px 0 80px;
+  }
+}
+@media (min-width: 1200px) {
+  .features .features-content {
+    float: left;
+    padding: 64px 0 96px;
+  }
+}
+.features .features-content p {
+  color: #808080;
+}
+
+.flip img{
+  float: right;
+}
+
+.flip video{
+  float: right;
+}
+
+
 #intro {
   text-align: center;
   max-width: 970px;
