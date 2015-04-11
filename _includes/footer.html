@@ -2,6 +2,15 @@
    <script src="//code.jquery.com/jquery.min.js"></script>
     <script src="/public/js/bootstrap.min.js"></script>
     <script src="/public/js/vendor/device.min.js"></script>
+    <script type="text/javascript">
+$(document).ready(function(){
+    $('.faqlink').click(function(){
+        
+
+        $(this).next('.faqanswer').toggle();
+    });
+});
+</script>
   <div class="wrapper">
 
     <h2 class="footer-heading">{{ site.title }}</h2>

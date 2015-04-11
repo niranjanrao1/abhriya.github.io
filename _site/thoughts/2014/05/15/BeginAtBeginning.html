@@ -14,6 +14,7 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
     <link rel="canonical" href="http://localhost:4000/thoughts/2014/05/15/BeginAtBeginning.html">
+
 </head>
 
 
@@ -36,6 +37,10 @@
         
           
           <a class="page-link" href="/blog.html">Blog</a>
+          
+        
+          
+          <a class="page-link" href="/faq.html">FAQ</a>
           
         
           
@@ -67,6 +72,10 @@
         
           
            <li> <a class="page-link" href="/blog.html">Blog</a></li>
+          
+        
+          
+           <li> <a class="page-link" href="/faq.html">FAQ</a></li>
           
         
           
@@ -266,6 +275,15 @@
    <script src="//code.jquery.com/jquery.min.js"></script>
     <script src="/public/js/bootstrap.min.js"></script>
     <script src="/public/js/vendor/device.min.js"></script>
+    <script type="text/javascript">
+$(document).ready(function(){
+    $('.faqlink').click(function(){
+        
+
+        $(this).next('.faqanswer').toggle();
+    });
+});
+</script>
   <div class="wrapper">
 
     <h2 class="footer-heading">6degrees</h2>
