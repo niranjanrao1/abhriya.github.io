@@ -48,18 +48,19 @@
 
 @media ( max-width : 767px) {
 	.fullscreen-bg {
-		background: url('../public/img/landing_android.png') center center/cover no-repeat;
+		background: url('../public/img/landing_android.png') center center/cover
+			no-repeat;
 	}
 	.fullscreen-bg__video {
 		display: none;
 	}
 }
 
-@media (min-width: 0px) and (max-width: 480px){
-    #floater { 
-        display : none; 
-        visibility : hidden; 
-    }
+@media ( min-width : 0px) and (max-width: 767px) {
+	#floater {
+		display: none;
+		visibility: hidden;
+	}
 }
 
 #floater {
@@ -90,6 +91,19 @@
 }
 </style>
 <script type="text/javascript">
+	var txt = "";
+	txt += "<p style='display: block; height:"+  screen.height +"px;'></p>";
+
+	/* txt += "<p>Total width/height: " + screen.width + "*" + screen.height
+			+ "</p>";
+	txt += "<p>Available width/height: " + screen.availWidth + "*"
+			+ screen.availHeight + "</p>";
+	txt += "<p>Color depth: " + screen.colorDepth + "</p>";
+	txt += "<p>Color resolution: " + screen.pixelDepth + "</p>"; */
+	document.getElementById("demoNew").innerHTML = txt; 
+	alert("test");
+</script>
+<script type="text/javascript">
 	(function(d) {
 		var config = {
 			kitId : 'ngm5tby',
@@ -119,6 +133,7 @@
 
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
 	<nav class="navbar" role="navigation">
 		<div class="container">
 			<div class="navbar-header  page-scroll">
@@ -146,7 +161,12 @@
 			</div>
 		</div>
 	</nav>
-	<div class="container-fluid">
+
+	<div>
+		<!-- <h2>Best in class, Rich and connected Phonebook.</h2>
+			<p class="lead">6degrees is your private, auto-updating
+				phonebook. Search our rich network to find old friends and connect
+				with newer ones.</p> -->
 
 		<div class="fullscreen-bg">
 			<video autoplay poster="/public/img/videoframe.png" id="bgvid"
@@ -157,26 +177,20 @@
       <source src="https://youtube.com/embed/TILD4du-M5E?autoplay=1&controls=0&showinfo=0&autohide=1" type="video/mp4" />
   </video> -->
 		</div>
+		<span style='display: block; height:100vh;'></span>
 
-		<div>
-			<!-- <h2>Best in class, Rich and connected Phonebook.</h2>
-			<p class="lead">6degrees is your private, auto-updating
-				phonebook. Search our rich network to find old friends and connect
-				with newer ones.</p> -->
-			<span style="display: block; height: 500px;"></span>
-
-			<!-- <a id="demo"
+		<!-- <a id="demo"
 					href="https://youtu.be/TILD4du-M5E" class="btn btn-success"
 					style="height: 50px; margin: 10px;"> Watch Video </a> -->
 
 
 
-			<!--       <a href="https://itunes.apple.com/app/6degrees/id867466594?mt=8" class="download-alt">Available for iPhone</a>
+		<!--       <a href="https://itunes.apple.com/app/6degrees/id867466594?mt=8" class="download-alt">Available for iPhone</a>
  -->
-			<!-- <a id="download-ios" href="https://itunes.apple.com/app/6degrees/id867466594?mt=8" class="download-badge">Available on the App Store</a> -->
-			<!--       <a href="https://play.google.com/store/apps/details?id=co.abhriya.sixdegrees" class="download-alt">Get it for Android</a> -->
-		</div>
+		<!-- <a id="download-ios" href="https://itunes.apple.com/app/6degrees/id867466594?mt=8" class="download-badge">Available on the App Store</a> -->
+		<!--       <a href="https://play.google.com/store/apps/details?id=co.abhriya.sixdegrees" class="download-alt">Get it for Android</a> -->
 	</div>
+
 	<!-- <div class="embed-responsive embed-responsive-16by9">
 </div> -->
 
@@ -570,10 +584,11 @@
 <div id="floater">
 	<a id="download-android" style="float: right; margin-right: 5cm;"
 		href="https://play.google.com/store/apps/details?id=co.abhriya.sixdegrees"
-		class="btn download-badge">Get it on Google Play</a>
-	<span id = "floaterText" style="float: left; margin-left: 5cm;">Now stay always connected with your friends and family !</span>
-
+		class="btn download-badge">Get it on Google Play</a> <span
+		id="floaterText" style="float: left; margin-left: 5cm;">Now
+		stay always connected with your friends and family !</span>
 </div>
+
 <div id="footer">
 	<div class="container">
 		<p>
